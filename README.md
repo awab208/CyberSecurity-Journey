@@ -81,40 +81,6 @@ Place your real screenshots in Results Screenshots/ — the UI references filena
 
 ## License
 This project is open source under the MIT License (see LICENSE). Free to practice and adapt responsibly. Misuse is your responsibility.
-
----
-
-## 🔖 Suggested GitHub Description
-Elite, frontend-only cybersecurity dashboard documenting a self-directed journey across offensive, defensive, and compliance domains — evidence-backed with on-demand screenshots and a searchable tools/commands matrix.
-
-## 🏷️ Suggested Topics
-- cybersecurity
-- red-team
-- blue-team
-- penetration-testing
-- hackthebox
-- kali-linux
-- windows-hardening
-- compliance
-- cis-benchmarks
-- lfi
-- web-enumeration
-- nmap
-- gobuster
-- security-portfolio
-- html
-- css
-- javascript
-
-## (Optional) Set Topics via GitHub API
-Replace `GITHUB_TOKEN` with a Personal Access Token that has `repo` scope.
-
-```bash
-curl -L -X PUT \
-	-H "Accept: application/vnd.github+json" \
-	-H "Authorization: Bearer GITHUB_TOKEN" \
-	https://api.github.com/repos/Mandar123454/CyberSecurity-Journey/topics \
-	-d '{
 		"names": [
 			"cybersecurity","red-team","blue-team","penetration-testing","hackthebox",
 			"kali-linux","windows-hardening","compliance","cis-benchmarks","lfi",
