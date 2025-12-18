@@ -81,10 +81,3 @@ Place your real screenshots in Results Screenshots/ — the UI references filena
 
 ## License
 This project is open source under the MIT License (see LICENSE). Free to practice and adapt responsibly. Misuse is your responsibility.
-		"names": [
-			"cybersecurity","red-team","blue-team","penetration-testing","hackthebox",
-			"kali-linux","windows-hardening","compliance","cis-benchmarks","lfi",
-			"web-enumeration","nmap","gobuster","security-portfolio","html","css","javascript"
-		]
-	}'
-```
